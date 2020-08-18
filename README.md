@@ -1,4 +1,4 @@
-#  zeroworkshop Backend service
+#  zeroworkshop Backend service 
 
 # Getting started
 You now have a repo to start writing your backend logic! The Go api comes with an endpoint returning the status of the app. 
